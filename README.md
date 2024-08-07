@@ -1,6 +1,6 @@
 # App-Data-Analysis
 
-I loved this Project on Dataquest and picked up to work on it using Pandas!
+I loved this project on Dataquest and picked up to work on it using Pandas!
 
 Short Introduction:
 
